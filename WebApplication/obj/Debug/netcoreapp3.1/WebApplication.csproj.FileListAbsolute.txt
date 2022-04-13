@@ -1,0 +1,310 @@
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\appsettings.json
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\libman.json
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.exe
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.deps.json
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.runtimeconfig.json
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.runtimeconfig.dev.json
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.pdb
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.Views.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.Views.pdb
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\itransition course\itransition-task-4\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\itransition course\itransition-task-4\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csproj.AssemblyReference.cache
+D:\itransition course\itransition-task-4\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.AssemblyInfoInputs.cache
+D:\itransition course\itransition-task-4\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.AssemblyInfo.cs
+D:\itransition course\itransition-task-4\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csproj.CoreCompileInputs.cache
+D:\itransition course\itransition-task-4\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.MvcApplicationPartsAssemblyInfo.cache
+D:\itransition course\itransition-task-4\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorAssemblyInfo.cache
+D:\itransition course\itransition-task-4\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorAssemblyInfo.cs
+D:\itransition course\itransition-task-4\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication.StaticWebAssets.Manifest.cache
+D:\itransition course\itransition-task-4\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication.StaticWebAssets.xml
+D:\itransition course\itransition-task-4\WebApplication\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication.styles.css
+D:\itransition course\itransition-task-4\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.TagHelpers.input.cache
+D:\itransition course\itransition-task-4\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.TagHelpers.output.cache
+D:\itransition course\itransition-task-4\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorCoreGenerate.cache
+D:\itransition course\itransition-task-4\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\itransition course\itransition-task-4\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\itransition course\itransition-task-4\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\itransition course\itransition-task-4\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
+D:\itransition course\itransition-task-4\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\itransition course\itransition-task-4\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorTargetAssemblyInfo.cache
+D:\itransition course\itransition-task-4\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorTargetAssemblyInfo.cs
+D:\itransition course\itransition-task-4\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.Views.pdb
+D:\itransition course\itransition-task-4\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csproj.CopyComplete
+D:\itransition course\itransition-task-4\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.dll
+D:\itransition course\itransition-task-4\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.pdb
+D:\itransition course\itransition-task-4\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.genruntimeconfig.cache
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\appsettings.json
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\libman.json
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.exe
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.deps.json
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.runtimeconfig.json
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.runtimeconfig.dev.json
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.pdb
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.Views.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.Views.pdb
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\itransition course\4 Task\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\itransition course\4 Task\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csproj.AssemblyReference.cache
+D:\itransition course\4 Task\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.AssemblyInfoInputs.cache
+D:\itransition course\4 Task\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.AssemblyInfo.cs
+D:\itransition course\4 Task\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csproj.CoreCompileInputs.cache
+D:\itransition course\4 Task\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.MvcApplicationPartsAssemblyInfo.cache
+D:\itransition course\4 Task\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorAssemblyInfo.cache
+D:\itransition course\4 Task\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorAssemblyInfo.cs
+D:\itransition course\4 Task\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication.StaticWebAssets.Manifest.cache
+D:\itransition course\4 Task\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication.StaticWebAssets.xml
+D:\itransition course\4 Task\WebApplication\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication.styles.css
+D:\itransition course\4 Task\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.TagHelpers.input.cache
+D:\itransition course\4 Task\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.TagHelpers.output.cache
+D:\itransition course\4 Task\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorCoreGenerate.cache
+D:\itransition course\4 Task\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\itransition course\4 Task\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\itransition course\4 Task\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\itransition course\4 Task\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
+D:\itransition course\4 Task\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\itransition course\4 Task\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorTargetAssemblyInfo.cache
+D:\itransition course\4 Task\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorTargetAssemblyInfo.cs
+D:\itransition course\4 Task\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.Views.pdb
+D:\itransition course\4 Task\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csproj.CopyComplete
+D:\itransition course\4 Task\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.dll
+D:\itransition course\4 Task\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.pdb
+D:\itransition course\4 Task\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.genruntimeconfig.cache
